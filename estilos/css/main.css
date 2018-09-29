@@ -1432,11 +1432,11 @@ input::-moz-focus-inner {
 
 .subhead_dark {
     font-family: "metropolis-semibold", sans-serif;
-    font-size: 5.6rem;
+    font-size: 5rem;
     line-height: 1.3125;
     text-transform: uppercase;
     letter-spacing: 0.25rem;
-    color: #cccccc;
+    color: #ffffff;
     margin-top: 0.6rem;
     margin-bottom: 0.6rem;
 }
